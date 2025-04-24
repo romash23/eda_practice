@@ -9,3 +9,6 @@
  - Как соотносятся зарплаты Data Scientist и Data Engineer в 2022 году?
  - Как соотносятся зарплаты специалистов Data Scientist в компаниях различных размеров?
  - Есть ли связь между наличием должностей Data Scientist и Data Engineer и размером компании?
+
+[*Cсылка*](https://github.com/romash23/eda_practice/blob/master/ds_salaries.csv) на данные.
+[*Ссылка*](https://github.com/romash23/eda_practice/blob/master/eda-4_Practice.ipynb) на практическую работу
